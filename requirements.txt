@@ -1,0 +1,21 @@
+# WEAPON SCANNER :: INFILTRATION DEPENDENCIES
+# ---------------------------------------
+# Core tactical libraries for reconnaissance operations
+
+# Network infiltration framework
+requests>=2.28.1
+
+# Advanced terminal interface system
+rich>=12.5.1
+
+# Progress tracking and monitoring
+tqdm>=4.64.0
+
+# Optional dependencies for enhanced capabilities
+colorama>=0.4.5
+urllib3>=1.26.12
+certifi>=2022.6.15
+charset-normalizer>=2.1.0
+idna>=3.3
+pygments>=2.13.0
+commonmark>=0.9.1
