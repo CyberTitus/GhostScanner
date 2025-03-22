@@ -14,7 +14,7 @@ A penetration testing tool for identifying vulnerable admin panels and control i
 
 ```bash
 # Clone the repository
-git clone https://github.com/cybertituss/GhostScanner.git
+git clone [https://github.com/cybertituss/GhostScanner.git](https://github.com/CyberTitus/GhostScanner.git)
 cd GhostScanner
 
 # Create a virtual environment (optional but recommended)
